@@ -1,0 +1,10 @@
+.filterform {
+    padding: 10px 0;
+    background-color: lightslategray;
+    text-align: center;
+    color: white;
+}
+
+.filterform select {
+    margin-right: 10px;
+}
